@@ -10,6 +10,7 @@ django = "*"
 djangorestframework = "*"
 djangorestframework-simplejwt = "*"
 django-mysql = "*"
+django-cors-headers = "*"
 
 [dev-packages]
 
